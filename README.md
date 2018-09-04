@@ -49,3 +49,8 @@ Get slurm performance metrics and put into cloudwatch
 * **(Backfill) Depth mean**: Mean of processed jobs during backfilling scheduling cycles since last reset.
 
 [Information extracted from the SLURM **sdiag** command](https://slurm.schedmd.com/sdiag.html)
+
+### TODO
+
+ - Add testcase 
+ - try using pyslurm module instead of slurm commands
